@@ -1,6 +1,6 @@
 
 #include "Registered_user.h"
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
