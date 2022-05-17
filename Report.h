@@ -16,5 +16,5 @@ public:
   void ListOfOrders();
   void ListOfServices();
   void SalesRepor();
-  ~Report();
+  ~Report()
 };
