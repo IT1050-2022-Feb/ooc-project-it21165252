@@ -39,9 +39,9 @@ void Customer::AddFeedback(Feedbacks *f1,Feedbacks *f2){
   feed[0]=f1;
   feed[1]=f2;
 }
-/*void Customer::addOrder(Order *o){
+void Customer::addOrder(Order *o){
   
-}*/
+}
 Customer::~Customer() {
 	
 }
